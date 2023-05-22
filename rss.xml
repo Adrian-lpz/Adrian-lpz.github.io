@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Feed de Noticias de Juegos</title>
+    <link>http://www.tusitio.com/rss</link>
+    <description>Las últimas noticias y actualizaciones sobre juegos</description>
+    <language>es-ES</language>
+    <image>
+      <title>Logotipo del RSS</title>
+      <url>http://www.mipagina.com/logotipo-del-rss.png</url>
+      <link>http://www.mipagina.com</link>
+      <width>90</width>
+      <height>36</height>
+    </image>
+
+    <item>
+      <title>Nintendo retrasó Zelda: Tears of the Kingdom cuando estaba prácticamente terminado</title>
+      <link>https://vandal.elespanol.com/noticia/1350762491/nintendo-retraso-zelda-tears-of-the-kingdom-cuando-estaba-practicamente-terminado/</link>
+      <description>Eiji Aonuma, productor de la saga The Legend of Zelda, explica que el equipo de desarrollo de Tears of the Kingdom invirtió cerca de un año para acabar de pulir el sistema de físicas.</description>
+    </item>
+
+    <item>
+      <title>La próxima expansión de Dying Light 2 ofrecerá una experiencia más terrorífica</title>
+      <link>https://vandal.elespanol.com/noticia/1350762493/la-proxima-expansion-de-dying-light-2-ofrecera-una-experiencia-mas-terrorifica/</link>
+      <description>Tymon Smektala, director de Dying Light 2, comenta que la siguiente actualización apostará por una experiencia 'aún más aterradora' que hará que los jugadores 'se caguen en los pantalones'.</description>
+    </item>
+  </channel>
+</rss>
