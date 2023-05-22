@@ -2,13 +2,13 @@
 <rss version="2.0">
   <channel>
     <title>Feed de Noticias de Juegos</title>
-    <link>http://www.tusitio.com/rss</link>
+    <link>https://adrian-lpz.github.io/</link>
     <description>Las últimas noticias y actualizaciones sobre juegos</description>
     <language>es-ES</language>
     <image>
-      <title>Logotipo del RSS</title>
-      <url>http://www.mipagina.com/logotipo-del-rss.png</url>
-      <link>http://www.mipagina.com</link>
+      <title>icono rss</title>
+      <url>https://github.com/Adrian-lpz/Adrian-lpz.github.io/blob/main/Imagenes/rss.png</url>
+      <link>https://adrian-lpz.github.io/</link>
       <width>90</width>
       <height>36</height>
     </image>
